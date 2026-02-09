@@ -22,3 +22,10 @@ body {
     max-width: 500px; 
     height: auto; 
 }
+
+.gif2_container img {
+
+    width: 100%;
+    max-width: 100px;
+    height: auto;
+}
